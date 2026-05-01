@@ -28,9 +28,9 @@ In this guide you will learn how to extend structure box size for structure bloc
 
 If the only block you have in your structure is structure block, you will find its data here:
 
-![][structure] extending_structure_block.mcstructure
+![1000][structure] extending_structure_block.mcstructure
 
-> ![][compound] structure
+> ![k][compound] structure
 >
 > > ![][compound] palette
 > >
